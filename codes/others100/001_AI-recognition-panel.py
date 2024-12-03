@@ -55,3 +55,4 @@ if __name__ == '__main__':
 
     assert solve_method(lights) == [1, 2, 3, 4, 5]
 
+# 这个？？？
